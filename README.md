@@ -12,7 +12,6 @@ https://www.consumerfinance.gov/data-research/consumer-complaints/#get-the-data
 After downloading, extract the CSV file and update the file path in the code
 to point to the local location of the dataset.
 
----
 
 ## Installation
 
@@ -36,7 +35,5 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
 python -m spacy download en_core_web_md
-
-After installing the necessary dependencies, the code can be executed using the final.ipynb in a virtual environment.
 
 After installing the necessary dependencies, the code can be executed using the final.ipynb in a virtual environment.
