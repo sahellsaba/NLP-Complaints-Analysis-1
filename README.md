@@ -37,3 +37,4 @@ python -m spacy download en_core_web_sm
 python -m spacy download en_core_web_md
 
 After installing the necessary dependencies, the code can be executed using the final.ipynb in a virtual environment.
+
